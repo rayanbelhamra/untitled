@@ -5,10 +5,10 @@
 
 import random
 
-redo = "yes"
+redo = "no"
 
 # boucle
-while redo == ("yes"):
+while redo == ("no"):
 
     x = random.randint(0, 100)
     nb_essai = 0
